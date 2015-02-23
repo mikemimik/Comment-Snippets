@@ -7,8 +7,6 @@
 $2
 
 /*-----  End of ${1:Section comment block}  ------*/
-
-
 ]]></content>
 	<tabTrigger>comm-section</tabTrigger>
 	<description>Comment - Full section comment</description>
